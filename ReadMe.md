@@ -28,7 +28,7 @@
 This is a **course**, but not a course to learn Scala! It is a course to **learn programming**... indeed with Scala.  
 So the target audience is people who don't know how to code and/or don't know how applications are made but have an interest in at least understanding how that "magic" works without necessarily willing to be a programmer.
 
-I wrote this course because my girlfriend who is from a history of art background wanted to understand a little of what I'm doing everyday at work. So the chalenge is double as she doesn't understand anything about computers, plus she doesn't have a vocation to be a developer. All that to say if she can understand, you can understand (she is not idiot hein!).
+I wrote this course because my girlfriend who is from a history of art background wanted to understand a little of what I'm doing everyday at work. So the challenge is double as she doesn't understand anything about computers, plus she doesn't have a vocation to be a developer. All that to say if she can understand, you can understand (she is not idiot hein!).
 
 > :raising_hand: Scala for a beginner!? Isn't it too hard for a first language?
 
