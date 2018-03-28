@@ -1,4 +1,4 @@
-[[Back to the questions]](../../02. Your First Lines Of Code.md#exercise-5)
+[[Back to the questions]](../../02.%20Your%20First%20Lines%20Of%20Code.md#exercise-5)
 
 ## 2. Your First Lines Of Code - Solution to exercise 5
 

@@ -1,4 +1,4 @@
-[[Back to the questions]](../../04. Variables.md#exercise-1)
+[[Back to the questions]](../../04.%20Variables.md#exercise-1)
 
 ## 4. Variables - Solution to exercise 1.4
 

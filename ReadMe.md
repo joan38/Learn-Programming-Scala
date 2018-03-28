@@ -1,15 +1,15 @@
 # Learn Programming with Scala (BETA)
 
-1. [Preliminaries](course/01. Preliminaries.md)
-2. [Your First Lines Of Code](course/02. Your First Lines Of Code.md)
-3. [Values](course/03. Values.md)
-4. [Variables](course/04. Variables.md)
-5. [Blocks Of Code](course/05. Blocks Of Code.md)
-6. [Functions](course/06. Functions.md)
-7. [Objects](course/07. Objects.md)
-8. [Collections](course/08. Collections.md)
-9. [Loops](course/09. Loops.md)
-10. [Your First Application](course/10. Your First Application.md)
+1. [Preliminaries](course/01.%20Preliminaries.md)
+2. [Your First Lines Of Code](course/02.%20Your%20First%20Lines%20Of%20Code.md)
+3. [Values](course/03.%20Values.md)
+4. [Variables](course/04.%20Variables.md)
+5. [Blocks Of Code](course/05.%20Blocks%20Of%20Code.md)
+6. [Functions](course/06.%20Functions.md)
+7. [Objects](course/07.%20Objects.md)
+8. [Collections](course/08.%20Collections.md)
+9. [Loops](course/09.%20Loops.md)
+10. [Your First Application](course/10.%20Your%20First%20Application.md)
 11. Using an IDE
 12. Tuples
 13. Packages

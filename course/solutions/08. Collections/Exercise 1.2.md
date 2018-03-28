@@ -1,4 +1,4 @@
-[[Back to the questions]](../../08. Collections.md#exercise-1)
+[[Back to the questions]](../../08.%20Collections.md#exercise-1)
 
 ## 8. Collections - Solution to exercise 1.2
 

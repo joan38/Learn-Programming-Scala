@@ -1,4 +1,4 @@
-[[Back to the questions]](../../03. Values.md#exercise-2)
+[[Back to the questions]](../../03.%20Values.md#exercise-2)
 
 ## 3. Values - Solution to exercise 2
 
